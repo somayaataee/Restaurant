@@ -52,7 +52,7 @@ Restaurant/
 1. **Clone the Repository:**
 
 ```
-git clone https://github.com/somayaataee/Burger-landing-page.git
+git clone https://github.com/somayaataee/Restaurant.git
 cd Restaurant
 ```
 
@@ -87,6 +87,7 @@ This project is open-source and free to use for educational purposes.
 - 💻 junior FullStack Engineer
 
 [https://github.com/somayaataee](https://github.com/somayaataee)
+
 
 
 
