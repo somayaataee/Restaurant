@@ -77,7 +77,7 @@ This project is open-source and free to use for educational purposes.
 
 ##  Deployed (Render)
 
-🔗[(https://restaurant-ten-lime.vercel.app/)(https://restaurant-ten-lime.vercel.app/))]
+[🔗 Open live demo — restaurant-ten-lime.vercel.app](https://restaurant-ten-lime.vercel.app/)
 
 
 
