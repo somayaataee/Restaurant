@@ -77,7 +77,8 @@ This project is open-source and free to use for educational purposes.
 
 ##  Deployed (Render)
 
-🔗[(https://burger-landing-page.vercel.app/](https://burger-landing-page.vercel.app/))]
+🔗[(https://restaurant-ten-lime.vercel.app/)(https://restaurant-ten-lime.vercel.app/))]
+
 
 
 ---
@@ -87,6 +88,7 @@ This project is open-source and free to use for educational purposes.
 - 💻 junior FullStack Engineer
 
 [https://github.com/somayaataee](https://github.com/somayaataee)
+
 
 
 
