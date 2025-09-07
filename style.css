@@ -237,6 +237,14 @@ body{
     color: white;
     height: 100vh;
 }
+.sec-about .headin-about{
+ color: transparent;
+  text-align: center;
+  margin: 10px;
+  font-size: 70px;
+-webkit-text-stroke-width: 5px;
+-webkit-text-stroke-color: #f5be59;
+}
 .row .col-md-6{
     text-align: center;
     justify-content: center;
@@ -278,6 +286,46 @@ span{
     color: orange;
  }
 
+/* footer section */
+ .footer .row{
+ margin-left:20px;
+ color: white;
+
+ }
+ .footer h2{
+color: orange;
+ }
+ .social2 {
+  color:orange;
+  font-size: 30px;
+  display: flex;
+ }
+ .social2 .link-item{
+  color: orange;
+  margin: 20px 20px;
+  
+ }
+ td i{
+  color: orange;
+  margin: 8px;
+ }
+ .social2 .link-item:hover{
+  color: white;
+ }
+ .col-md-4 a{
+  display: block;
+  text-decoration: none;
+  color: white;
+ }
+ .col-md-4 a:hover{
+  color: orange;
+ }
+ .col-md-4 input{
+  display: block;
+  border: 2px solid orange;
+  border-radius: 20px;
+  padding: 6px;
+ }
 
 /* ----------------- Media Queries ----------------- */
 
@@ -360,3 +408,4 @@ span{
 }
 
  
+
